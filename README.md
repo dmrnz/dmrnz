@@ -2,7 +2,7 @@
 
 - Senior frontend developer, 5+ years of experience, I constantly learn and improve myself as a programmer and as a person
 - My skills and knowledge allow me to find bug-free, future-proof solutions for most tasks with great speed and high quality; basically, I do my job better than the majority of devs, proven statistically
-- By taking the initiative to optimize the website (I was on the platform team), I made every page noticeably faster (some up to twice as fast), earning millions of dollars. Can do the same for you
+- When I was on the platform team, I took the initiative to optimize the website and made every page noticeably faster, some up to twice as fast, earning millions of dollars. Can do the same for you
 - In one project, I achieved ~90% code coverage with unit, interaction, and e2e tests, which accelerated the release of new features by 20-50% and made my colleagues' lives a bit better
 - Thanks to my good communication and technical skills, I got promoted to a lead developer with a team of 5 devs, which I managed well using Agile, and after half a year, increased the team productivity by ~50%
 
