@@ -10,8 +10,8 @@
 
 ### Tech Stack
 - React, TypeScript, JavaScript, Next.js, Svelte
-- React Query, GraphQL, Apollo, Node.js, React Router
-- HTML, CSS, Tailwind, CSS Modules, PostCSS, LESS, SASS, Stylus
+- GraphQL, Apollo, React Query, Node.js, React Router
+- Tailwind, HTML, CSS, CSS Modules, PostCSS, LESS, SASS, Stylus
 - Storybook, Jest, Testing Library, Mocha, Playwright
 - Java, PostgreSQL, ESLint, Docker, Git, Github Actions, Agile, Jira, Figma
 
